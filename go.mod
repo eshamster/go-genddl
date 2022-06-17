@@ -1,4 +1,4 @@
-module github.com/mackee/go-genddl
+module github.com/eshamster/go-genddl
 
 go 1.15
 
